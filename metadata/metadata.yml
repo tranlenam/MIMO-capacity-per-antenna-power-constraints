@@ -1,0 +1,23 @@
+metadata_version: 1
+name: 'Revisiting the MIMO Capacity With Per-Antenna Power Constraint: Fixed-Point
+  Iteration and Alternating Optimization'
+description: |-
+  Simulation code for the following paper:
+
+  Thuy M. Pham, Ronan Farrell, and Le-Nam Tran, "Revisiting the MIMO Capacity with Per-antenna Power Constraint: Fixed-point Iteration and Alternating Optimization," IEEE Trans. Wireless Commun., vol. 18, no. 1, pp. 388-401, Jan. 2019.
+tags:
+- MIMO capacity
+- per antenna power constraints
+authors:
+- name: Thuy M. Pham
+  affiliations:
+  - name: Maynooth University
+- name: Ronan Farrell
+  affiliations:
+  - name: Maynooth University
+- name: Le-Nam Tran
+  affiliations:
+  - name: Maynooth University
+corresponding_contributor:
+  name: Le-Nam Tran
+  email: nam.tran@ucd.ie

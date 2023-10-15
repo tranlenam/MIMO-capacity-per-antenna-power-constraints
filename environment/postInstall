@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+set -e
+curl -s http://web.cvxr.com/cvx/cvx-rd.tar.gz | tar zx
+matlab -nodisplay -r "cd cvx; cvx_setup()"
